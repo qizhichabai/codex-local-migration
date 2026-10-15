@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 本地迁移与合并"
+  short_description: "在 Mac 间导出本地会话、技能与附件，校验后合并并保留目标数据"
+  default_prompt: "使用 $codex-local-migration 将这台 Mac 的 Codex 本地数据导出为迁移包，或将已有迁移包安全合并到本机。"
